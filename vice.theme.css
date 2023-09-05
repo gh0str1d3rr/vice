@@ -1,0 +1,39 @@
+/**
+ * @name Vice
+ * @author gh0str1d3r
+ * @version 1.0.0
+ * @source 
+ * @website https://github.com/gh0str1d3rr
+ * @donate 
+ * @patreon 
+ * @description theme inspired by Vice City 
+*/
+
+@import url("vice.css");
+
+:root,
+.theme-dark,
+.theme-light {
+
+
+  /*RGB Colors - you can change colors*/ 
+  --rgb-highlight-green: 44, 227, 147;
+  --rgb-highlight-pink: 216, 107, 202;
+  --rgba-background: 16, 13, 35, 0.5;
+  --rgb-background: 16, 13, 35;
+
+  --rgb-text: 53, 205, 253;
+  --rgb-close-button: 217, 87, 135;
+  --rgb-online-color: 0, 232, 106;
+  --rgb-afk-color: 255, 255, 51;
+  --rgb-dnd-color: 217, 87, 135;
+  --rgb-streaming-color: 169, 112, 255;
+
+
+}
+
+
+html,
+body {
+  font-family: "IBM Plex Mono", monospace /*If you want change your font do it there*/
+}
