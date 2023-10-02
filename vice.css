@@ -1,3 +1,7 @@
+
+
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono");
+
 :root,
 .theme-dark,
 .theme-light {
@@ -501,7 +505,7 @@
 }
 
 .info-3pQQBb:last-child::after {
-  content: "Vice 1.0.0";
+  content: "Vice 1.0.2";
   font-size: 12px;
   line-height: 16px;
   color: rgb(var(--rgb-highlight-pink));
