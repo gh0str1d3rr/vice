@@ -1,7 +1,7 @@
 /**
  * @name Vice
  * @author gh0str1d3r
- * @version 1.0.0
+ * @version 1.0.1
  * @source 
  * @website https://github.com/gh0str1d3rr
  * @donate 
@@ -9,7 +9,7 @@
  * @description theme inspired by Vice City 
 */
 
-@import url("vice.css");
+@import url("https://gh0str1d3rr.github.io/vice/vice.css");
 
 :root,
 .theme-dark,
