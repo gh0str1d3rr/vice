@@ -422,12 +422,10 @@
   border: 1px solid var(--highlight-pink);
   background-color: var(--background) !important;
   text-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
-  position: relative;
 }
 
 .channelTextArea-1FufC0::after {
   content: "";
-  position: absolute;
   top: 0px;
   left: 0px;
   right: 0px;
