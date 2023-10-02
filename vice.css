@@ -432,6 +432,11 @@
   bottom: 0px;
   border-radius: 10px;
   box-shadow: 0 0 15px rgba(var(--rgb-highlight-pink), 90%);
+  z-index: 1;
+}
+
+.inner-NQg18Y {
+  z-index: 2;
 }
 
 .userProfileInnerThemedNonPremium-1gT-zY {
