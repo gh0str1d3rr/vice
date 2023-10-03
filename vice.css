@@ -435,6 +435,11 @@
   z-index: 1;
 }
 
+.textBadge-1fdDPJ {
+  box-shadow: 0 0 15px rgba(var(--rgb-highlight-pink), 90%);
+  background-color: rgba(var(--rgb-highlight-green));
+}
+
 .inner-NQg18Y {
   z-index: 2;
 }
