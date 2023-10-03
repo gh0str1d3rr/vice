@@ -256,7 +256,7 @@
 
 
 
-  --brand-500: var(--highlight-green);
+  --brand-500: rgba(var(--rgb-highlight-green));
 
   --primary-630: var(--background) --rs-small-spacing: 2px;
   /* Gap between avatar and status for members list/dms | MUST end in px */
