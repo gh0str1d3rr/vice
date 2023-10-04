@@ -438,7 +438,7 @@
   z-index: 1;
 }
 
-h2 .bd-sidebar-header-label {
+.bd-sidebar-header h2 .bd-sidebar-header-label {
  color: var(--channels-default);
 }
 
