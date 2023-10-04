@@ -438,6 +438,15 @@
   z-index: 1;
 }
 
+.bd-sidebar-header-label {
+ color: var(--channels-default);
+}
+
+
+
+
+
+
 .textBadge-1fdDPJ {
   box-shadow: 0 0 15px rgba(var(--rgb-highlight-pink), 90%);
   background-color: rgb(var(--rgb-highlight-green));
