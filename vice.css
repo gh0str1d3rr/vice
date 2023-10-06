@@ -337,7 +337,7 @@
 }
 
 
-.appMount-2yBXZl::selection {
+.appMount-2yBXZl span::selection {
   color: var(--highlight-pink);
   background-color: var(--highlight-green);
 }
