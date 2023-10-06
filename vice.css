@@ -337,6 +337,11 @@
 }
 
 
+.appMount-2yBXZl::selection {
+  color: var(--highlight-pink);
+  background-color: var(--highlight-green);
+}
+
 
 #app-mount .wrapper-1VLyxH rect[fill="#593695"],
 #app-mount .wrapper-1VLyxH rect[mask*=streaming] {
@@ -441,10 +446,6 @@
 .bd-sidebar-header h2 {
  color: var(--channels-default);
 }
-
-
-
-
 
 
 .textBadge-1fdDPJ {
