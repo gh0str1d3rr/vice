@@ -337,7 +337,7 @@
 }
 
 
-span::selection {
+messageContent-2t3eCI span::selection {
   background-color: rgba(var(--rgb-highlight-green), 100%) !important;
   color: rgba(var(--rgb-highlight-pink), 100%) !important;
 }
