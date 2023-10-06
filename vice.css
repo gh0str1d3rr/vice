@@ -337,9 +337,9 @@
 }
 
 
-.appMount-2yBXZl span::selection {
-  color: var(--highlight-pink);
-  background-color: var(--highlight-green);
+.appMount-2yBXZl::selection {
+  background-color: rgba(var(--rgb-highlight-green), 100%) !important;
+  color: rgba(var(--rgb-highlight-pink), 100%) !important;
 }
 
 
